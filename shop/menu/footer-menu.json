@@ -1,0 +1,25 @@
+{
+    "company": [
+        { "value": "Home", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Shop", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "About", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "How It Works", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Contact", "tag": "a", "subMenu": null, "href": "#" }
+    ],
+
+    "information": [
+        { "value": "Tearms & Condition", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Privacy Policy", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "How to Buy", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "How to Sell", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Promotion", "tag": "a", "subMenu": null, "href": "#" }
+    ],
+
+    "shop-category": [
+        { "value": "Men", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Women", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Child", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Apparel", "tag": "a", "subMenu": null, "href": "#" },
+        { "value": "Brows All", "tag": "a", "subMenu": null, "href": "#" }
+    ]
+}
