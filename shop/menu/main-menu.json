@@ -5,7 +5,7 @@
         "tag": "a",
         "subMenu": [
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "/catalog/women" },
                 { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
