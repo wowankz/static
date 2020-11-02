@@ -5,227 +5,227 @@
         "tag": "a",
         "subMenu": [
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Super <br> sale!", "tag": "div", "subMenu": null, "href": "#" }
             ]
         ],
-        "href": "catalog.html"
+        "href": "catalog/man"
     },
     {
         "value": "Women",
         "tag": "a",
         "subMenu": [
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Super <br> sale!", "tag": "div", "subMenu": null, "href": "#" }
             ]
         ],
-        "href": "catalog.html"
+        "href": "catalog/women"
     },
     {
         "value": "Kids",
         "tag": "a",
         "subMenu": [
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Super <br> sale!", "tag": "div", "subMenu": null, "href": "#" }
             ]
         ],
-        "href": "catalog.html"
+        "href": "catalog/kids"
     },
     {
         "value": "Accessories",
         "tag": "a",
         "subMenu": [
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Super <br> sale!", "tag": "div", "subMenu": null, "href": "#" }
             ]
         ],
-        "href": "catalog.html"
+        "href": "catalog/accessories"
     },
     {
         "value": "Featured",
         "tag": "a",
         "subMenu": [
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Super <br> sale!", "tag": "div", "subMenu": null, "href": "#" }
             ]
         ],
-        "href": "catalog.html"
+        "href": "catalog/featured"
     },
     {
         "value": "Hot Deals",
         "tag": "a",
         "subMenu": [
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Blazers", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Denim", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Leggings/Pants", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Skirts/Shorts", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Accessories", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" }
+                ({ "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" })
             ],
             [
-                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog.html" },
-                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product.html" },
-                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product.html" },
+                { "value": "women", "tag": "h3", "subMenu": null, "href": "catalog/women" },
+                { "value": "Dresses", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Tops", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Sweaters/Knits", "tag": "a", "subMenu": null, "href": "product" },
+                { "value": "Jackets/Coats", "tag": "a", "subMenu": null, "href": "product" },
                 { "value": "Super <br> sale!", "tag": "div", "subMenu": null, "href": "#" }
             ]
         ],
-        "href": "catalog.html"
+        "href": "catalog/hot-deals"
     }
 ]
