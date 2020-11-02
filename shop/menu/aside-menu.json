@@ -1,0 +1,58 @@
+[
+    {
+        "block": "Category",
+        "links": [
+            { "name": "Accessories", "href": "/catalog/man" },
+            { "name": "Bags", "href": "/catalog/man" },
+            { "name": "Denim", "href": "/catalog/man" },
+            { "name": "Hoodies & Sweatshirts", "href": "/catalog/man" },
+            { "name": "Jackets & Coats", "href": "/catalog/man" },
+            { "name": "Pants", "href": "/catalog/man" },
+            { "name": "Polos", "href": "/catalog/man" },
+            { "name": "Shirts", "href": "/catalog/man" },
+            { "name": "Shoes", "href": "/catalog/man" },
+            { "name": "Shorts", "href": "/catalog/man" },
+            { "name": "Sweaters & Knits", "href": "/catalog/man" },
+            { "name": "T-Shirts", "href": "/catalog/man" },
+            { "name": "Tanks", "href": "/catalog/man" }
+        ]
+    },
+
+    {
+        "block": "BRAND",
+        "links": [
+            { "name": "Accessories", "href": "/catalog/man" },
+            { "name": "Bags", "href": "/catalog/man" },
+            { "name": "Denim", "href": "/catalog/man" },
+            { "name": "Hoodies & Sweatshirts", "href": "/catalog/man" },
+            { "name": "Jackets & Coats", "href": "/catalog/man" },
+            { "name": "Pants", "href": "/catalog/man" },
+            { "name": "Polos", "href": "/catalog/man" },
+            { "name": "Shirts", "href": "/catalog/man" },
+            { "name": "Shoes", "href": "/catalog/man" },
+            { "name": "Shorts", "href": "/catalog/man" },
+            { "name": "Sweaters & Knits", "href": "/catalog/man" },
+            { "name": "T-Shirts", "href": "/catalog/man" },
+            { "name": "Tanks", "href": "/catalog/man" }
+        ]
+    },
+
+    {
+        "block": "DESIGNER",
+        "links": [
+            { "name": "Accessories", "href": "/catalog/man" },
+            { "name": "Bags", "href": "/catalog/man" },
+            { "name": "Denim", "href": "/catalog/man" },
+            { "name": "Hoodies & Sweatshirts", "href": "/catalog/man" },
+            { "name": "Jackets & Coats", "href": "/catalog/man" },
+            { "name": "Pants", "href": "/catalog/man" },
+            { "name": "Polos", "href": "/catalog/man" },
+            { "name": "Shirts", "href": "/catalog/man" },
+            { "name": "Shoes", "href": "/catalog/man" },
+            { "name": "Shorts", "href": "/catalog/man" },
+            { "name": "Sweaters & Knits", "href": "/catalog/man" },
+            { "name": "T-Shirts", "href": "/catalog/man" },
+            { "name": "Tanks", "href": "/catalog/man" }
+        ]
+    }
+]
