@@ -1,5 +1,5 @@
 [
-    { "value": "Home", "tag": "a", "subMenu": null, "href": "index.html" },
+    { "value": "Home", "tag": "a", "subMenu": null, "href": "/" },
     {
         "value": "Man",
         "tag": "a",
