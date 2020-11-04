@@ -1,6 +1,4 @@
-{
-  "baseImgUrl": "https://raw.githubusercontent.com/wowankz/static/master/shop/",
-  "products": [
+ [
     {
       "id": 1,
       "name": "Mango People T-Shirt",
@@ -170,4 +168,3 @@
       "containers": ["like"]
     }
   ]
-}
