@@ -8,18 +8,18 @@
     ],
 
     "information": [
-        { "value": "Tearms & Condition", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Privacy Policy", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "How to Buy", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "How to Sell", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Promotion", "tag": "a", "subMenu": null, "href": "#" }
+        { "value": "Tearms & Condition", "tag": "a", "subMenu": null, "href": "/" },
+        { "value": "Privacy Policy", "tag": "a", "subMenu": null, "href": "/" },
+        { "value": "How to Buy", "tag": "a", "subMenu": null, "href": "/" },
+        { "value": "How to Sell", "tag": "a", "subMenu": null, "href": "/" },
+        { "value": "Promotion", "tag": "a", "subMenu": null, "href": "/" }
     ],
 
     "shop-category": [
-        { "value": "Men", "tag": "a", "subMenu": null, "href": "/man" },
-        { "value": "Women", "tag": "a", "subMenu": null, "href": "/women" },
-        { "value": "Child", "tag": "a", "subMenu": null, "href": "/kids" },
-        { "value": "Apparel", "tag": "a", "subMenu": null, "href": "/man" },
+        { "value": "Men", "tag": "a", "subMenu": null, "href": "/catalog/man" },
+        { "value": "Women", "tag": "a", "subMenu": null, "href": "/catalog/women" },
+        { "value": "Child", "tag": "a", "subMenu": null, "href": "/catalog/kids" },
+        { "value": "Apparel", "tag": "a", "subMenu": null, "href": "/catalog/man" },
         { "value": "Brows All", "tag": "a", "subMenu": null, "href": "catalog" }
     ]
 }
