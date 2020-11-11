@@ -1,10 +1,10 @@
 {
     "company": [
-        { "value": "Home", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Shop", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "About", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "How It Works", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Contact", "tag": "a", "subMenu": null, "href": "#" }
+        ({ "value": "Home", "tag": "a", "subMenu": null, "href": "/" },
+        { "value": "Shop", "tag": "a", "subMenu": null, "href": "/catalog" },
+        { "value": "About", "tag": "a", "subMenu": null, "href": "/" },
+        { "value": "How It Works", "tag": "a", "subMenu": null, "href": "/" },
+        { "value": "Contact", "tag": "a", "subMenu": null, "href": "/" })
     ],
 
     "information": [
@@ -16,10 +16,10 @@
     ],
 
     "shop-category": [
-        { "value": "Men", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Women", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Child", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Apparel", "tag": "a", "subMenu": null, "href": "#" },
-        { "value": "Brows All", "tag": "a", "subMenu": null, "href": "#" }
+        ({ "value": "Men", "tag": "a", "subMenu": null, "href": "/man" },
+        { "value": "Women", "tag": "a", "subMenu": null, "href": "/women" },
+        { "value": "Child", "tag": "a", "subMenu": null, "href": "/kids" },
+        { "value": "Apparel", "tag": "a", "subMenu": null, "href": "/man" },
+        { "value": "Brows All", "tag": "a", "subMenu": null, "href": "catalog" })
     ]
 }
