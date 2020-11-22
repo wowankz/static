@@ -1,0 +1,110 @@
+[
+	{
+		"user": {
+			"name": "user",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 1,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user2",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 2,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user2",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 3,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user3",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 4,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user3",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 5,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user4",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 6,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user4",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 7,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user4",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 8,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	},
+	{
+		"user": {
+			"name": "user4",
+			"email": "wowikwow@mail.ru",
+			"avatar": ""
+		},
+		"id": 9,
+		"title": "Title article",
+		"date": "22.10.1955",
+		"topic": "topic",
+		"article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor molestiae non facere placeat alias illo error et dolorum. Adreiciendis accusantium deserunt quis recusandae assumenda architecto vero, nemo repudiandae laudantium. Ad dolore itaque libero"
+	}
+]
