@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"name": "Marry poppins",
+		"price": "35",
+		"rating": 8.0,
+		"languages": ["en", "ru", "it", "fr", "se"],
+		"trainings": [
+			{ "name": "Ski", "color": "#F1F2F6", "active_color": "#63BE00", "is_included": true },
+			{ "name": "Snowboard", "color": "#F1F2F6", "active_color": "#F6B30E", "is_included": true },
+			{ "name": "Ski Freestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Snowboard\nFreestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Telemark", "color": "#F1F2F6", "active_color": "#254AA5", "is_included": true },
+			{ "name": "Sci di fondo", "color": "#F1F2F6", "active_color": "#0B86D8", "is_included": true },
+			{ "name": "Ski Freeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true },
+			{ "name": "Snowboard\nFreeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true }
+		],
+		"media": [
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860110/booking1_x2aqdt.png", "id": 0 },
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860115/fulldata_food_m8vyxg.png", "id": 1 }
+		]
+	},
+	{
+		"id": 2,
+		"name": "Monica Bellucci",
+		"price": "50",
+		"rating": 10.0,
+		"languages": ["en", "ru", "it", "fr", "se"],
+		"trainings": [
+			{ "name": "Ski", "color": "#F1F2F6", "active_color": "#63BE00", "is_included": true },
+			{ "name": "Snowboard", "color": "#F1F2F6", "active_color": "#F6B30E", "is_included": true },
+			{ "name": "Ski Freestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Snowboard\nFreestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Telemark", "color": "#F1F2F6", "active_color": "#254AA5", "is_included": true },
+			{ "name": "Sci di fondo", "color": "#F1F2F6", "active_color": "#0B86D8", "is_included": true },
+			{ "name": "Ski Freeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true },
+			{ "name": "Snowboard\nFreeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true }
+		],
+		"media": [
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860110/booking1_x2aqdt.png", "id": 0 },
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860115/fulldata_food_m8vyxg.png", "id": 1 }
+		]
+	},
+	{
+		"id": 3,
+		"name": "Mario Rossi",
+		"price": "40",
+		"rating": 9.0,
+		"languages": ["en", "ru", "it", "fr", "se"],
+		"trainings": [
+			{ "name": "Ski", "color": "#F1F2F6", "active_color": "#63BE00", "is_included": true },
+			{ "name": "Snowboard", "color": "#F1F2F6", "active_color": "#F6B30E", "is_included": true },
+			{ "name": "Ski Freestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Snowboard\nFreestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Telemark", "color": "#F1F2F6", "active_color": "#254AA5", "is_included": true },
+			{ "name": "Sci di fondo", "color": "#F1F2F6", "active_color": "#0B86D8", "is_included": true },
+			{ "name": "Ski Freeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true },
+			{ "name": "Snowboard\nFreeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true }
+		],
+		"media": [
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860110/booking1_x2aqdt.png", "id": 0 },
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860115/fulldata_food_m8vyxg.png", "id": 1 }
+		]
+	},
+	{
+		"id": 4,
+		"name": "Marry poppins2",
+		"price": "35",
+		"rating": 8.0,
+		"languages": ["en", "ru", "it", "fr", "se"],
+		"trainings": [
+			{ "name": "Ski", "color": "#F1F2F6", "active_color": "#63BE00", "is_included": true },
+			{ "name": "Snowboard", "color": "#F1F2F6", "active_color": "#F6B30E", "is_included": true },
+			{ "name": "Ski Freestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Snowboard\nFreestyle", "color": "#F1F2F6", "active_color": "#FA8722", "is_included": true },
+			{ "name": "Telemark", "color": "#F1F2F6", "active_color": "#254AA5", "is_included": true },
+			{ "name": "Sci di fondo", "color": "#F1F2F6", "active_color": "#0B86D8", "is_included": true },
+			{ "name": "Ski Freeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true },
+			{ "name": "Snowboard\nFreeride", "color": "#F1F2F6", "active_color": "#9B51E0", "is_included": true }
+		],
+		"media": [
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860110/booking1_x2aqdt.png", "id": 0 },
+			{ "type": "image", "url": "http://res.cloudinary.com/ktim91/image/upload/v1623860115/fulldata_food_m8vyxg.png", "id": 1 }
+		]
+	}
+]
