@@ -1,0 +1,7 @@
+[
+	{ "name": "Instructors", "desc": "Maestri di sci e guide alpine", "img": "instructors.png" },
+	{ "name": "Restaurants", "desc": "Restaurants", "img": "restaurants.png" },
+	{ "name": "Transfer", "desc": "Transfer", "img": "transfer.png" },
+	{ "name": "Spa", "desc": "Spa", "img": "spa.png" },
+	{ "name": "Rent", "desc": "Noleggio attrezzatura", "img": "rent.png" }
+]
