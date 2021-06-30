@@ -1,0 +1,96 @@
+{
+	"winter": {
+		"low": {
+			"deposit": 30,
+			"remaining": {
+				"deadline": 6,
+				"value": 70
+			},
+			"cancellation": {
+				"befor": 0,
+				"after": 30
+			},
+			"refund": {
+				"name": "refund_percent",
+				"value": 30
+			}
+		},
+		"middle": {
+			"deposit": 30,
+			"remaining": {
+				"deadline": 6,
+				"value": 70
+			},
+			"cancellation": {
+				"befor": 0,
+				"after": 30
+			},
+			"refund": {
+				"name": "refund_percent",
+				"value": 30
+			}
+		},
+		"high": {
+			"deposit": 30,
+			"remaining": {
+				"deadline": 6,
+				"value": 70
+			},
+			"cancellation": {
+				"befor": 0,
+				"after": 30
+			},
+			"refund": {
+				"name": "refund_percent",
+				"value": 30
+			}
+		}
+	},
+	"summer": {
+		"low": {
+			"deposit": 30,
+			"remaining": {
+				"deadline": 6,
+				"value": 70
+			},
+			"cancellation": {
+				"befor": 0,
+				"after": 30
+			},
+			"refund": {
+				"name": "refund_percent",
+				"value": 30
+			}
+		},
+		"middle": {
+			"deposit": 30,
+			"remaining": {
+				"deadline": 6,
+				"value": 70
+			},
+			"cancellation": {
+				"befor": 0,
+				"after": 30
+			},
+			"refund": {
+				"name": "refund_percent",
+				"value": 30
+			}
+		},
+		"high": {
+			"deposit": 30,
+			"remaining": {
+				"deadline": 6,
+				"value": 70
+			},
+			"cancellation": {
+				"befor": 0,
+				"after": 30
+			},
+			"refund": {
+				"name": "refund_percent",
+				"value": 30
+			}
+		}
+	}
+}
