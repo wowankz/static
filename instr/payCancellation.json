@@ -11,7 +11,7 @@
 				"after": 30
 			},
 			"refund": {
-				"name": "refund_percent",
+				"name": "change_date",
 				"value": 30
 			}
 		},
@@ -26,7 +26,7 @@
 				"after": 30
 			},
 			"refund": {
-				"name": "refund_percent",
+				"name": "change_date",
 				"value": 30
 			}
 		},
@@ -41,7 +41,7 @@
 				"after": 30
 			},
 			"refund": {
-				"name": "refund_percent",
+				"name": "change_date",
 				"value": 30
 			}
 		}
@@ -58,7 +58,7 @@
 				"after": 30
 			},
 			"refund": {
-				"name": "refund_percent",
+				"name": "change_date",
 				"value": 30
 			}
 		},
@@ -73,7 +73,7 @@
 				"after": 30
 			},
 			"refund": {
-				"name": "refund_percent",
+				"name": "change_date",
 				"value": 30
 			}
 		},
@@ -88,7 +88,7 @@
 				"after": 30
 			},
 			"refund": {
-				"name": "refund_percent",
+				"name": "change_date",
 				"value": 30
 			}
 		}
