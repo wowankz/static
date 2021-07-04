@@ -13,7 +13,8 @@
 			"refund": {
 				"name": "change_date",
 				"value": 30
-			}
+			},
+			"booking_protection": true
 		},
 		"middle": {
 			"deposit": 30,
@@ -28,7 +29,8 @@
 			"refund": {
 				"name": "change_date",
 				"value": 30
-			}
+			},
+			"booking_protection": true
 		},
 		"high": {
 			"deposit": 30,
@@ -43,7 +45,8 @@
 			"refund": {
 				"name": "change_date",
 				"value": 30
-			}
+			},
+			"booking_protection": true
 		}
 	},
 	"summer": {
@@ -60,7 +63,8 @@
 			"refund": {
 				"name": "change_date",
 				"value": 30
-			}
+			},
+			"booking_protection": true
 		},
 		"middle": {
 			"deposit": 30,
@@ -75,7 +79,8 @@
 			"refund": {
 				"name": "change_date",
 				"value": 30
-			}
+			},
+			"booking_protection": true
 		},
 		"high": {
 			"deposit": 30,
@@ -90,7 +95,8 @@
 			"refund": {
 				"name": "change_date",
 				"value": 30
-			}
+			},
+			"booking_protection": true
 		}
 	}
 }
