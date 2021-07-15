@@ -1,1 +1,5 @@
-[{ "id": "2021-07-14", "color": "blue", "dates": 1626199200000, "season": "low" }]
+[
+	{ "id": "2021-07-14", "color": "blue", "dates": 1626199200000, "season": "low" },
+	{ "id": "2021-07-15", "color": "yellow", "dates": 1626285600000, "season": "middle" },
+	{ "id": "2021-07-16", "color": "orange", "dates": 1626372000000, "season": "high" }
+]
